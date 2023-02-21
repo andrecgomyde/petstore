@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/module-catalog/view/base/web/js/price-box.js

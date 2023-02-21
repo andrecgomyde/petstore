@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/app/code/Smartwave/Megamenu/view/frontend/web/js/sw_megamenu.js

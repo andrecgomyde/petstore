@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/app/design/frontend/Smartwave/porto/Magento_Theme/web/js/theme.js

@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/module-search/view/frontend/web/js/form-mini.js

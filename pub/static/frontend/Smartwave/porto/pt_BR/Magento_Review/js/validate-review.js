@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/module-review/view/frontend/web/js/validate-review.js

@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/module-customer/view/frontend/web/js/invalidation-processor.js

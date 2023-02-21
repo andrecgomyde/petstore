@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/mailchimp/mc-magento2/view/frontend/web/js/campaigncatcher.js

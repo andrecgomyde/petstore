@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/module-google-analytics/view/frontend/web/js/google-analytics.js

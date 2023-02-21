@@ -1,0 +1,1 @@
+/home2/petsto15/public_html/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/responsive.js
